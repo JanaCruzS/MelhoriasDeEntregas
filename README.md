@@ -59,9 +59,9 @@ Com essa abordagem, conseguimos garantir um checkout mais rápido, preciso e efi
 
 ##  Integrantes do grupo: 
 ✅ **Janaína Cruz**.
-✅ **Lucas Pinto.
-✅ **Renato.
-✅ **Bruno Ferreira.
+✅ **Lucas Pinto.**
+✅ **Renato.**
+✅ **Bruno Ferreira.**
 
 
 
