@@ -57,11 +57,11 @@ Utilização de serviços de consulta para garantir alta disponibilidade e preci
 
 Com essa abordagem, conseguimos garantir um checkout mais rápido, preciso e eficiente, beneficiando tanto o cliente quanto a loja. 🚀😊
 
-Integrantes do grupo: 
-Janaina Cruz
-Bruno Ferreira 
-Lucas Pinto 
-Renato 
+##  Integrantes do grupo: 
+✅ **Janaína Cruz**.
+✅ **Lucas Pinto.
+✅ **Renato.
+✅ **Bruno Ferreira.
 
 
 
